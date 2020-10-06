@@ -1,0 +1,34 @@
+{
+  "name": "RON Token List",
+  "logoURI": "https://api.ronwallet-app.io/images/icon256.png",
+  "keywords": [
+    "ron",
+    "influencer",
+    "special tokens"
+  ],
+  "tags": {
+    "ron": {
+      "name": "RON",
+      "description": "Tokens that are created by RON."
+    }
+  },
+  "timestamp": "2020-10-06T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x08de69e5e9d08bb1dff0b5a7c8cc6672df7c0412",
+      "symbol": "RON",
+      "name": "RON",
+      "decimals": 18,
+      "logoURI": "https://api.ronwallet-app.io/images/icon256.png",
+      "tags": [
+        "ron"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
