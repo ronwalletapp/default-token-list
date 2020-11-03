@@ -1,0 +1,49 @@
+{
+  "name": "PATRON Token List",
+  "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/patron.png",
+  "keywords": [
+    "ron",
+    "influencer",
+    "special tokens"
+  ],
+  "tags": {
+    "patron": {
+      "name": "PATRON",
+      "description": "Tokens that are created by PATRON."
+    },
+    "ron": {
+      "name": "RON",
+      "description": "Tokens that are created by RON."
+    }
+  },
+  "timestamp": "2020-11-03T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624",
+      "symbol": "PATRON",
+      "name": "PAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/patron.png",
+      "tags": [
+        "patron"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x08de69e5e9d08bb1dff0b5a7c8cc6672df7c0412",
+      "symbol": "RON",
+      "name": "RON",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/ron.png",
+      "tags": [
+        "ron"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
