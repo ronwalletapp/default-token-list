@@ -14,6 +14,10 @@
     "ron": {
       "name": "RON",
       "description": "Tokens that are created by RON."
+    },
+    "comsa": {
+      "name": "COMSA",
+      "description": "Tokens that are created by COMSA."
     }
   },
   "timestamp": "2020-11-03T00:00:00+00:00",
@@ -36,6 +40,17 @@
       "name": "RON",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/ron.png",
+      "tags": [
+        "ron"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf83301c5cd1ccbb86f466a6b3c53316ed2f8465a",
+      "symbol": "COMSA",
+      "name": "COMSA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/comsa.png",
       "tags": [
         "ron"
       ]
