@@ -7,7 +7,7 @@
     "special tokens"
   ],
   "tags": {
-    "patron": {
+    "pat": {
       "name": "PATRON",
       "description": "Tokens that are created by PATRON."
     },
@@ -30,7 +30,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/patron.png",
       "tags": [
-        "patron"
+        "pat"
       ]
     },
     {
@@ -52,7 +52,7 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/comsa.png",
       "tags": [
-        "ron"
+        "comsa"
       ]
     }
   ],
