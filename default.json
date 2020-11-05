@@ -1,6 +1,6 @@
 {
   "name": "RON Token List",
-  "logoURI": "https://api.ronwallet-app.io/images/icon256.png",
+  "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/ron.png",
   "keywords": [
     "ron",
     "influencer",
@@ -20,7 +20,7 @@
       "symbol": "RON",
       "name": "RON",
       "decimals": 18,
-      "logoURI": "https://api.ronwallet-app.io/images/icon256.png",
+      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/ron.png",
       "tags": [
         "ron"
       ]
