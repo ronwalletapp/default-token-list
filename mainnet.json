@@ -30,7 +30,7 @@
       "logoURI": "https://decentralized.tipchip.io/images/coins/ETH.png"
     },
     {
-      "name": "ISYSTOKEN (ISYS)",
+      "name": "ISYSTOKEN",
       "address": "0x89bCCB71f29cf9b1f8ecD227160E9527A46b83A3",
       "symbol": "ISYS",
       "decimals": 8,
@@ -38,7 +38,7 @@
       "logoURI": "https://i-sys.io/images/favicon.png"
     },
     {
-      "name": "TToken (TT)",
+      "name": "TToken",
       "symbol": "TT",
       "address": "0xb93CF0012fB7124c2a7FfFe38e212Cb7A5303C60",
       "decimals": 8,
