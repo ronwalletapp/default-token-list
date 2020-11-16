@@ -1,0 +1,49 @@
+{
+  "name": "Chipswap List",
+  "timestamp": "2020-11-10T00:28:54.236Z",
+  "version": {
+    "major": 1,
+    "minor": 6,
+    "patch": 11
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/chipswap.png?token=AJQHSRUMLC6JPKVXPLQPXTK7XHAVM",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "CHIP",
+      "address": "0x3eF1F5c9d29390942C3f647afac72900E9058982",
+      "symbol": "CHIP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/chipswap.png?token=AJQHSRWHFPVXA34DNXOOW3S7XHAP6"
+    },
+    {
+      "name": "WBNB",
+      "symbol": "WBNB",
+      "address": "0x14233bA7106D1a3C2db6F9d6f5B216956a201072",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://decentralized.tipchip.io/images/coins/ETH.png"
+    },
+    {
+      "name": "ISYSTOKEN (ISYS)",
+      "address": "0x89bCCB71f29cf9b1f8ecD227160E9527A46b83A3",
+      "symbol": "ISYS",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI": "https://i-sys.io/images/favicon.png"
+    },
+    {
+      "name": "TToken (TT)",
+      "symbol": "TT",
+      "address": "0xb93CF0012fB7124c2a7FfFe38e212Cb7A5303C60",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI": "https://i-sys.io/images/favicon.png"
+    }
+  ]
+}
