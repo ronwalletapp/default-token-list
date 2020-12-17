@@ -22,6 +22,22 @@
       "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/ron.png"
     },
     {
+      "name": "CAKE",
+      "symbol": "CAKE",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "LTC",
+      "symbol": "LTC",
+      "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/litecoin_32.png"
+    },
+    {
       "name": "BUSD",
       "symbol": "BUSD",
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
