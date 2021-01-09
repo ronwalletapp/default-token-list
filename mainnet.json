@@ -22,6 +22,14 @@
       "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/ron.png"
     },
     {
+      "name": "CHIP BS2",
+      "symbol": "CHIPBS2",
+      "address": "0x107395e02fdf14175497ba10843967d73ec6c038",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/chip.png"
+    },
+    {
       "name": "CAKE",
       "symbol": "CAKE",
       "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
