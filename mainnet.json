@@ -14,6 +14,14 @@
   ],
   "tokens": [
     {
+      "name": "Chip",
+      "symbol": "CHIP",
+      "address": "0xa25fc408ef05321103243557c851101f9acee608",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/chip.png"
+    },
+    {
       "name": "RON",
       "symbol": "RON",
       "address": "0x1b44a3c64b4ecf5e9086b94ca40db3423cc23abc",
