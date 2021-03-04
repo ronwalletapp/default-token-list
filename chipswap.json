@@ -1,13 +1,13 @@
 {
   "name": "Chipswap List",
-  "timestamp": "2020-11-10T00:28:54.236Z",
+  "timestamp": "2021-03-04T00:28:54.236Z",
   "version": {
     "major": 1,
     "minor": 6,
     "patch": 11
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/chipswap.png?token=AJQHSRUMLC6JPKVXPLQPXTK7XHAVM",
+  "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/chipswap.png",
   "keywords": [
     "chipswap",
     "default"
