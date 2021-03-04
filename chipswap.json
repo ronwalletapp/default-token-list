@@ -1,0 +1,65 @@
+{
+  "name": "Chipswap List",
+  "timestamp": "2020-11-10T00:28:54.236Z",
+  "version": {
+    "major": 1,
+    "minor": 6,
+    "patch": 11
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/chipswap.png?token=AJQHSRUMLC6JPKVXPLQPXTK7XHAVM",
+  "keywords": [
+    "chipswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Chip",
+      "symbol": "CHIP",
+      "address": "0xa25fc408ef05321103243557c851101f9acee608",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/chip.png"
+    },
+    {
+      "name": "RON",
+      "symbol": "RON",
+      "address": "0x1b44a3c64b4ecf5e9086b94ca40db3423cc23abc",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/ron.png"
+    },
+    {
+      "name": "CHIP BS2",
+      "symbol": "CHIPBS2",
+      "address": "0x107395e02fdf14175497ba10843967d73ec6c038",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/chipbs.png"
+    },
+    {
+      "name": "CAKE",
+      "symbol": "CAKE",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/pancake_32.png"
+    },
+    {
+      "name": "WLTC",
+      "symbol": "WLTC",
+      "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/litecoin_32.png"
+    },
+    {
+      "name": "BUSD",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    }
+  ]
+}
