@@ -2,9 +2,9 @@
   "name": "Chipswap List",
   "timestamp": "2021-03-29T00:28:54.236Z",
   "version": {
-    "major": 2,
-    "minor": 8,
-    "patch": 12
+    "major": 3,
+    "minor": 0,
+    "patch": 0
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/chip-swap/chipswap_default_token_list/develop/assets/chipswap.png",
