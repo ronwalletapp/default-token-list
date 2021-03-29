@@ -1,9 +1,9 @@
 {
   "name": "Chipswap List",
-  "timestamp": "2021-03-04T00:28:54.236Z",
+  "timestamp": "2021-03-29T00:28:54.236Z",
   "version": {
     "major": 2,
-    "minor": 7,
+    "minor": 8,
     "patch": 12
   },
   "tags": {},
@@ -20,14 +20,6 @@
       "decimals": 18,
       "chainId": 56,
       "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/chip.png"
-    },
-    {
-      "name": "RON",
-      "symbol": "RON",
-      "address": "0x1b44a3c64b4ecf5e9086b94ca40db3423cc23abc",
-      "decimals": 18,
-      "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/ron.png"
     },
     {
       "name": "CHIP BS2",
