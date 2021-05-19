@@ -7,58 +7,13 @@
     "special tokens"
   ],
   "tags": {
-    "pat": {
-      "name": "PATRON",
-      "description": "Tokens that are created by PATRON."
-    },
-    "ron": {
-      "name": "RON",
-      "description": "Tokens that are created by RON."
-    },
-    "comsa": {
-      "name": "COMSA",
-      "description": "Tokens that are created by COMSA."
-    }
   },
   "timestamp": "2020-11-03T00:00:00+00:00",
   "tokens": [
-    {
-      "chainId": 1,
-      "address": "0xF3b3Cad094B89392fcE5faFD40bC03b80F2Bc624",
-      "symbol": "PATRON",
-      "name": "PAT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/patron.png",
-      "tags": [
-        "pat"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0x08de69e5e9d08bb1dff0b5a7c8cc6672df7c0412",
-      "symbol": "RON",
-      "name": "RON",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/ron.png",
-      "tags": [
-        "ron"
-      ]
-    },
-    {
-      "chainId": 1,
-      "address": "0xf83301c5cd1ccbb86f466a6b3c53316ed2f8465a",
-      "symbol": "COMSA",
-      "name": "COMSA",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/ronwalletapp/default-token-list/main/comsa.png",
-      "tags": [
-        "comsa"
-      ]
-    }
   ],
   "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
+    "major": 2,
+    "minor": 1,
+    "patch": 1
   }
 }
